@@ -1,2 +1,2 @@
-![wolp](image-url)
+![wolp](gnaw.jpg)
 ![puppy](Puppy.png)
