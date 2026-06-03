@@ -1,5 +1,5 @@
 <p align="center">
-![wolp](gnaw.jpg)<p align="center">
+![wolp](gnaw.jpg)
 </p>
 
 Hai it me WithdrawnAenocyon :3
