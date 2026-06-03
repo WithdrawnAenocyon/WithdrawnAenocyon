@@ -1,1 +1,1 @@
-![puppy](puppy.png)
+![puppy](Puppy.png)
