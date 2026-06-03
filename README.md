@@ -11,5 +11,5 @@
 
 
 <p align="center">
-  <img width="750" src="Puppy.png" alt="me">
+  <img width="500" src="Puppy.png" alt="me">
 </p>
