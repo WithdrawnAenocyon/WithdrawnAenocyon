@@ -6,6 +6,9 @@
   Hai it me WithdrawnAenocyon :3
 </p>
 <p align="center">
+  This place is still a massive wip ehehe
+</p>
+<p align="center">
   This is my github yes yes yes look around there are some stuff and things if you are interested in learning about me
 </p>
 
