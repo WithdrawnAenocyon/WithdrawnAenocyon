@@ -24,5 +24,5 @@
 
 
 <p align="right">
-[My Apology Jar](https://apologyjar.atabook.org)
+<a href="https://apologyjar.atabook.org">My Apology Jar</a>
 </p>
