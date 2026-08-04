@@ -11,7 +11,9 @@
 <p align="center">
   This is my github yes yes yes look around there are some stuff and things if you are interested in learning about me
 </p>
-
+<p align="center">
+  I edited my strawpage a tiny bit :3 some nsfw stuff in there now. Be carefulllll, it's nothing crazy yet though.
+</p>
 
 <p align="center">
   <img width="500" src="Puppy.png" alt="me">
