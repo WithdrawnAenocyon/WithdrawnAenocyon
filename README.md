@@ -12,7 +12,7 @@
   This is my github yes yes yes look around there are some stuff and things if you are interested in learning about me
 </p>
 <p align="center">
-  I edited my strawpage a tiny bit :3 some nsfw stuff in there now. Be carefulllll, it's nothing crazy yet though.
+  I added some NSFW stuff to my strawpage, it's hidden below/underneath the weezer picture if you want to take a look ;3
 </p>
 
 <p align="center">
